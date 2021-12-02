@@ -2,3 +2,10 @@ Whether you own an extra or unused car or find yourself frequently looking for t
 Explore the docs »
 
 View Demo · Report Bug · Request Feature
+
+
+This project was created by request of the team's software engineering class at Northern Arizona University. Currently, this project is in it's alpha phase release version 1. The website's only main functionalities right now are to submit car info to rent or to rent out a car, and also to make an account. The design and implementation of the site is still preliminary and there will be more changes in the near future. This is just the simple base product of our system.
+
+
+License
+Distributed under the MIT License. See LICENSE for more information.
