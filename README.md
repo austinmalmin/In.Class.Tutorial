@@ -24,6 +24,9 @@
   </p>
 </div>
 
+<br />
+Adding a module bug fixes and optimization - Jonathan Gomez (jgomezpr)
+<br />
 
 
 <!-- TABLE OF CONTENTS -->
