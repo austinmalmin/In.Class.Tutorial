@@ -25,6 +25,11 @@
 </div>
 
 
+<br /><br />
+## Added Module
+Adding a module for bug fixes and optimization - Jonathan Gomez (jgomezpr)
+<br /><br /><br /><br />
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
