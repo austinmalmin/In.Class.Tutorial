@@ -28,6 +28,7 @@
 <br /><br />
 ## Added Module
 Adding a module for bug fixes and optimization - Jonathan Gomez (jgomezpr)
+Adding a module for creating unit tests - Carson Pociask (cpociask)
 <br /><br /><br /><br />
 
 
